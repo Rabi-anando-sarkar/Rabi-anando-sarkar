@@ -13,6 +13,6 @@ You can connect with me on LinkedIn:
 ![Profile views](https://komarev.com/ghpvc/?username=Rabi-anando-sarkar)
 
 ## About Me:
-I have a passion for creating clean, maintainable code. I’m always exploring new ways to improve my skills and contribute to open-source projects. I also run a pottery workshop, where I teach and create pottery.
+I have a passion for creating clean, maintainable code. I’m always exploring new ways to improve my skills.
 
 Feel free to browse my repositories and connect with me!
