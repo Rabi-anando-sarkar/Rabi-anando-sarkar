@@ -1,10 +1,18 @@
-# 👋 Hey, I’m @Rabi-anando-sarkar
+# Hi, I'm Rabi 👋
 
-- 👀 Exploring new tech wonders and geeking out on programming languages!
-- 🌱 Currently wrestling with the MERN stack like a coding ninja.
-- 💞️ Seeking collaborators for wild escapades in personal projects.
-- 📫 Reach me at rabianandos2002@gmail.com for virtual high-fives and project talks.
-<!---
-Rabi-anando-sarkar/Rabi-anando-sarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! Here's a bit about me:
+
+- I'm a full-stack web developer 🌐
+- I specialize in JavaScript, Node.js, and React.js ⚙️
+- I love learning new technologies and collaborating on innovative projects 🤝
+
+You can connect with me on LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/anandorabi/)
+
+## GitHub Profile Views:
+![Profile views](https://komarev.com/ghpvc/?username=Rabi-anando-sarkar)
+
+## About Me:
+I have a passion for creating clean, maintainable code. I’m always exploring new ways to improve my skills and contribute to open-source projects. I also run a pottery workshop, where I teach and create pottery.
+
+Feel free to browse my repositories and connect with me!
