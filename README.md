@@ -15,4 +15,6 @@ You can connect with me on LinkedIn:
 ## About Me:
 I have a passion for creating clean, maintainable code. I’m always exploring new ways to improve my skills.
 
+<a href="https://gitroll.io/profile/utfJLojv1SWeDOBXQm8zYjQXx0Hy2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/utfJLojv1SWeDOBXQm8zYjQXx0Hy2?theme=midnight" alt="GitRoll Profile Badge"/></a>
+
 Feel free to browse my repositories and connect with me!
